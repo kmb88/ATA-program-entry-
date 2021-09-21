@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KivaCommand
+comment0.text=\r\n\ KivaCommand\ sets\ enums\ that\ are\ connected\ to\ Kiva\ and\ RemoteControl\ objects.\r\n\ \r\n\ @return\ directionKey\ sets\ enums\ as\ the\ directions\ the\ Kiva\ will\ use.\r\n\ \r\n\ @author\ (Karen\ Bergan)\ \r\n\ @version\ (1\ 5/2/21)\r\n
+comment1.params=directionKey
+comment1.target=KivaCommand(char)
+comment2.params=
+comment2.target=char\ getDirectionKey()
+numComments=3
